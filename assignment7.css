@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+  }
+  #main{
+    display: flex;
+    width: 44vw;
+    height: 43vh;
+    position: relative;
+    left: 25vw;
+    top: 25vh;
+    background-color: white;
+    
+  
+  
+  }
+  #child1{
+    width: 22vw;
+    height: 43vh;
+    text-align: center;
+
+  }
+  #child2{
+    width: 22vw;
+    height: 43vh;
+    color: white;
+    background-color: rgb(224, 38, 75);
+    text-align: center;
+  }
+  i{
+    padding: 5px;
+  }
+  .c2{
+    position: relative;
+    top:50px;
+  }
+  p{
+    font-size: 13px;
+  }
+  button{
+    background-color:rgb(224, 38, 75); 
+    border-radius: 50px;
+    height: 30px;
+    width: 100px;
+    border: 1px solid white;
+    color: white;
+  }
+  .c1{
+    position: relative;
+    top:10px
+  }
